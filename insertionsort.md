@@ -16,3 +16,5 @@ dizi sıralandıktan sonra 18 average case kapsamındadır.
 [2,3,5,8,7,9,4,15,6] 3. işlem
 [2,3,4,8,7,9,5,15,6] 4. işlem
 [2,3,4,5,7,9,8,15,6]
+
+[patika](www.patika.dev)
