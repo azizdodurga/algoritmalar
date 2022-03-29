@@ -7,7 +7,7 @@
 [2,6,16,18,22,27] 5. işlem
 [2,6,16,18,22,27] 6. işlem
 
-big-o (6)
+big-o (36)
 
 dizi sıralandıktan sonra 18 average case kapsamındadır.
 
